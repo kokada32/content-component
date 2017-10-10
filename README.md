@@ -1,0 +1,1 @@
+Angular custom component that displays content from the database according to the specified ID of that content. The component uses two-way and callback bindings also REGEX for the Youtube and Vimeo URLs. Also the component is capable to display all types of content including Youtube, Vimeo, SoundCloud, AudioMack, .JPEG, .PNG, .GIF, .GIFV, .MP3, .MP4, and Markdown text.
